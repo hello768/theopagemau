@@ -1,0 +1,229 @@
+*{font-family: 'Open Sans', sans-serif;}
+#header{background:url(./269702612_293940696094562_2172119969469847333_n.jpg) top center/ cover no-repeat;
+padding-top:50%;
+position:relative;
+
+}
+.black{background-color:black;
+    width:100%;
+    height:87.7vh;
+    opacity:60%;
+position:absolute;
+top:0vh;}
+#header .navbar > p{display:inline;
+
+color:white;
+margin: 2vh 2vh;
+font-size:2.5vh;
+}
+.img1{width:10vh;
+color:white;}
+.navbar{position:absolute;
+    top:4.8vh;
+    left:60vh;
+    display:flex;
+    width:60%;
+    z-index:1;
+    
+}
+.logo{position:absolute;
+top:3vh;
+left:40vh;
+z-index:1;
+}
+.p1{position:relative;}
+.p2{position:absolute;
+left:20vh;}
+.p3{position:absolute;
+left:50vh;}
+.p4{position:absolute;
+left:80vh;}
+.p5{color:white;}
+.p6{color:white;
+}
+.midbar{z-index:1;
+position:absolute;
+font-size:5vh;
+top:30vh;
+left:20vh;
+width:40%;
+font-weight:lighter;}
+.p5{position:relative;}
+.p6{position:absolute;
+top:7vh;}
+.gen{width:15vh;
+border-radius:2vh;
+height:4vh;
+border-color:orange;
+cursor:pointer;
+}
+.b1{color:white;
+background-color:orange;}
+.b2{color:orange;
+background-color:#575B5C}
+#footer{width:100%;
+height:34vh;
+background-color:rgb(51, 51, 51);
+margin-top:20vh;}
+.gen1{color:grey;
+cursor:pointer;}
+.first{display:flex;
+position:relative;}
+.first{padding-top:4vh;
+padding-left: 12vh;}
+.pp1{position:relative;}
+.pp2{position:absolute;
+margin-left:9vh;}
+.pp3{position:absolute;
+    margin-left:14.5vh;}
+.pp4{position:absolute;
+        margin-left:20.5vh;}
+.pp5{position:absolute;
+    margin-left:29.2vh;}
+.second{background:url(./Screen\ Shot\ 2022-02-12\ at\ 07.07.17.png) top center/cover no-repeat;
+height:5vh;;
+width:11%;
+position:absolute;
+margin-top:-5.5vh;
+margin-left:140vh;
+cursor:pointer;}
+.gen2{color:grey;
+display:flex;
+justify-content:center;
+padding-top:3vh;}
+.pp6{position:relative;}
+.pp7{
+margin-top:-4vh;}
+.pp8{margin-top:-2vh;}
+.gen5{font-weight:lighter;
+    display:flex;
+    justify-content:center;}
+.pb1{
+font-size:5vh;}
+.pb3{margin-right:10.5vh;
+margin-top:-2vh;}
+.pb4{font-size:5vh;
+}
+.hinh{background:url(./Screen\ Shot\ 2022-02-12\ at\ 07.51.26.png) top center/cover no-repeat;
+width:10%;
+height:1vh;
+margin-left:78vh;
+margin-top:-2vh;}
+.a1{display:flex;
+    font-size:2.5vh;
+}
+.l1{
+position:relative;
+left:-45vh;}
+.l2{
+position:absolute;
+left:62vh;}
+.l3{position:absolute;
+    left:93vh;}
+.l4{position:absolute;
+    left:124.5vh;}
+.hi{width:18%;}
+.l6{margin-left:6vh;}
+.l7{margin-left:6vh;}
+.l8{margin-left:6vh;}
+.l5{margin-left:6vh;}
+.lll1{background:url(./Screen\ Shot\ 2022-02-12\ at\ 10.36.35.png)top center/cover no-repeat;
+width:58%;
+height:6.5vh;
+margin-left:30vh;}
+.body3{background:url(./part3.png) top center/ cover no-repeat;
+width:100%;
+height:80vh;
+margin-top:10vh;}
+.bb4{display:flex;
+justify-content:center;
+font-size:5vh;
+font-weight:lighter;}
+.hinh2{background:url(./app-iPhone.png)top center/cover no-repeat;
+width:15%;
+height:54vh;
+margin-left:32vh;
+margin-top:10vh;
+position:relative;}
+.hinh3{background:url(./Unknown.png)top center/cover no-repeat;
+width:5.5%;
+height:9.5vh;
+position:absolute;
+left:80vh;
+top:270vh;}
+.hinh4{background:url(./Unknown.png)top center/cover no-repeat;
+    width:5.5%;
+    height:9.5vh;
+    position:absolute;
+    left:80vh;
+    top:283vh;}
+.hinh5{background:url(./Unknown.png)top center/cover no-repeat;
+        width:5.5%;
+        height:9.5vh;
+        position:absolute;
+        left:80vh;
+        top:296vh;}
+        .teo{font-size:3vh;
+        font-weight:lighter;}
+.i{width:70%;}
+.all{position:absolute;
+left:98vh;
+top:268vh;}
+.hinhapp2{background:url(./Screen\ Shot\ 2022-02-12\ at\ 11.32.23.png)top center/cover no-repeat;
+width:25%;
+height:5.7vh;
+position:absolute;
+top:45vh;
+left:-18vh;
+cursor:pointer;}
+.hinhapp{background:url(./download-app-android.png)top center/cover no-repeat;
+    width:22%;
+height:5.7vh;
+position:absolute;
+top:45vh;
+left:2vh;
+cursor:pointer;}
+.nho{cursor:pointer;}
+.w1{font-size:3vh;
+font-weight:lighter;
+display:flex;
+justify-content:right;
+margin-right:42vh;
+margin-top:10vh;}
+.hinh22{background:url(./Screen\ Shot\ 2022-02-12\ at\ 07.51.26.png) top center/cover no-repeat;
+width:5%;
+height:1vh;
+position:absolute;
+left:105vh;
+}
+.h{display:flex;
+}
+.conn{position:absolute;
+left:80vh;
+top:340vh;
+font-size:2vh;
+}
+.body5{height:40vh;}
+.h{width:280%}
+.i1{position:absolute;
+left:40vh;}
+.i2{position:absolute;
+    left:40vh;}
+    .i3{position:absolute;
+        left:40vh;}
+        .i4{position:absolute;
+            left:40vh;}
+            .i5{position:absolute;
+                left:40vh;}
+                .i6{position:absolute;
+                    left:40vh;
+              background-color:orange;
+            color:white;
+        border-radius:2vh;
+    border:solid;
+width:60%;
+height:4vh;
+cursor:pointer;  }
+                    .i9{position:absolute;
+                        left:45vh;}
+                        .contain1{margin-top:5vh;}
